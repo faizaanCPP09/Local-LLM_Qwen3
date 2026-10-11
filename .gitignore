@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+chroma_db/
+notes.md
+docs/*
+!docs/sample_it_policy.md

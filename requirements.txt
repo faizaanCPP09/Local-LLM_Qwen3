@@ -1,0 +1,6 @@
+ollama
+chromadb
+mcp<2
+pypdf
+python-docx
+streamlit
